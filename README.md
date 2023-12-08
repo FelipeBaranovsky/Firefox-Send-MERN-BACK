@@ -1,2 +1,5 @@
 # Firefox-Send-MERN-BACK
-Firefox-Send--MERN-BACK
+### DB_URL=
+### PORT=
+### SECRET=
+### FRONTEND_URL=
